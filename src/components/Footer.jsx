@@ -3,7 +3,7 @@ const Footer = () => {
       <footer className="page-footer">
         <div className="container">
           <small>
-            Coded by <span>❤</span>FS Team
+            Coded by Narman
           </small>
         </div>
       </footer>
